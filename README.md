@@ -1,4 +1,4 @@
-# 📅 RSU Turni
+# 📅 RSU ZV Empoli
 
 Applicazione Android per la consultazione rapida dei turni di lavoro.
 
